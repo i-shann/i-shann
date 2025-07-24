@@ -2,7 +2,7 @@
 
 I'm Shan, a computer scientist interested in Data Science.
 
--🌱 I’m currently learning R Programming and Advanced Data Visualization :)
+🌱 I’m currently learning R Programming and Advanced Data Visualization :)
 <!--
 **i-shann/i-shann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
